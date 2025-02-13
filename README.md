@@ -1,2 +1,2 @@
 # MESS-UP-VTH-C
-Collection of all my C programs
+This repository contains a collection of C programming practice files, covering fundamental concepts, data structures, algorithms, and system programming. It includes hands-on exercises and projects to enhance C programming skills.
